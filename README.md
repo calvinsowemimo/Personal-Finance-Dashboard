@@ -32,6 +32,6 @@ This Personal Finance Dashboard is an application designed to help users manage 
 ## Installation
 Ensure you have Python and pip installed on your system. Then follow these steps:
 ```bash
-git clone https://github.com/yourgithubusername/finance-dashboard
+git clone https://github.com/calvinsowemimo/Personal-Finance-Dashboard
 cd finance-dashboard
 pip install -r requirements.txt
